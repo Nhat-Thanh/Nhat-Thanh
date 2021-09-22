@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unreal engine, OpenGL, C++, Computer vision**
 
-- 👨‍💻 All of my projects are available at [github.com](https://github.com/Nhat-Thanh?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Nhat-Thanh](https://github.com/Nhat-Thanh?tab=repositories)
 - 📝 I regularly write articles on [batdaulaptrinh.com](batdaulaptrinh.com)
 
 - 💬 Ask me about **C++, Computer Graphics and Linux**
