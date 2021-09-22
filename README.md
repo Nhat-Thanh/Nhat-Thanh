@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanh (Blue Shadow)</h1>
-<h3 align="center">A passionate graphics and C++ developer</h3>
+<h3 align="center">A passionate graphics and C++ coder</h3>
 
 - 🌱 I’m currently learning **Unreal engine, OpenGL, C++, Computer vision**
 
