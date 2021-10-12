@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanh (Blue Shadow)</h1>
 <h3 align="center">A Computer Science Student at UIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhat-thanh&label=Profile%20views&color=0e75b6&style=flat" alt="nhat-thanh" /> </p>
+
 
 - 🌱 I’m currently learning **Unreal engine, OpenGL, C++, Computer vision**
 
