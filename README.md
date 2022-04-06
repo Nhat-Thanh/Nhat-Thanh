@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thanh (Blue Shadow)</h1>
+<h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A Computer Science Student at UIT</h3>
 
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C++, Computer Graphics and Linux**
 
-- 📫 How to reach me **luonkebenban@gmail.com**
+- 📫 How to reach me **nhatthanhc17@gmail.com**
 
 - ⚡ Fun fact **I fancy doing everything by myself.**
 
