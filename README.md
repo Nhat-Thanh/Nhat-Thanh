@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A Computer Science Student at UIT</h3>
 
-
-
 - 🌱 I’m currently learning **Unreal engine, OpenGL, C++, Computer vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nhat-Thanh](https://github.com/Nhat-Thanh?tab=repositories)
 - 📝 I regularly write articles on [batdaulaptrinh.com](batdaulaptrinh.com)
 
 - 💬 Ask me about **C++, Computer Graphics and Linux**
 
 - 📫 How to reach me **nhatthanhc17@gmail.com**
-
-- ⚡ Fun fact **I fancy doing everything by myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
