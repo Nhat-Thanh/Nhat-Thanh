@@ -52,9 +52,9 @@
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=nhat-thanh&show_icons=true&locale=en&layout=compact"
-        alt="nhat-thanh" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-thanh&hide=jupyter%20notebook,javascript,go,css&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=nhat-thanh&show_icons=true&locale=en"
