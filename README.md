@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Unreal engine, OpenGL, C++, Computer vision**
-- 📝 I regularly write articles on [batdaulaptrinh.com](batdaulaptrinh.com)
+- 📝 I regularly write articles on [batdaulaptrinh.com](https://batdaulaptrinh.com/)
 - 💬 Ask me about **C++, Python, Linux**
 - 📫 How to reach me **nhatthanhc17@gmail.com**
 
@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
              alt="c" width="40" height="40" /> </a> 
@@ -34,7 +34,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
              alt="linux" width="40" height="40" /> </a>
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
              alt="bash" width="40" height="40" /> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
@@ -65,8 +65,11 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-thanh&hide=jupyter%20notebook,javascript,go,css&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-thanh&hide=jupyter%20notebook,javascript,go,css&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-thanh&hide=jupyter%20notebook,javascript,go,css&layout=compact&langs_count=4"
+         alt="nhat-thanh" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nhat-thanh&show_icons=true&locale=en" alt="nhat-thanh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhat-thanh&" alt="nhat-thanh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nhat-thanh&show_icons=true&locale=en" alt="nhat-thanh" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nhat-thanh&" alt="nhat-thanh" /></p>
