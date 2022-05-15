@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
              alt="c" width="40" height="40" /> </a> 
@@ -64,12 +64,9 @@
 
 </p>
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-thanh&hide=jupyter%20notebook,javascript,go,css&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-thanh&hide=jupyter%20notebook,javascript,go,css&layout=compact&langs_count=4"
-         alt="nhat-thanh" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nhat-thanh&show_icons=true&locale=en" alt="nhat-thanh" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nhat-thanh&" alt="nhat-thanh" /></p>
+         alt="nhat-thanh" />
+</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nhat-thanh&show_icons=true&locale=en" alt="nhat-thanh"/> </p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhat-thanh&" alt="nhat-thanh" /> </p>
