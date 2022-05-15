@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A computer science student at UIT</h3>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
 - 🌱 I’m currently learning **Unreal engine, OpenGL, C++, Computer vision**
-
 - 📝 I regularly write articles on [batdaulaptrinh.com](batdaulaptrinh.com)
-
 - 💬 Ask me about **C++, Python, Linux**
-
 - 📫 How to reach me **nhatthanhc17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -70,8 +69,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat-thanh&hide=jupyter%20notebook,javascript,go,css&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=nhat-thanh&show_icons=true&locale=en"
-        alt="nhat-thanh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhat-thanh&" alt="nhat-thanh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhat-thanh&show_icons=true&locale=en"
+        alt="nhat-thanh" />
+    &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhat-thanh&" alt="nhat-thanh" /></p>
